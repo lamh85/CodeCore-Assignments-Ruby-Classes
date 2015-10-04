@@ -57,3 +57,7 @@ Now build a class called Cat that inherits from the Animal class.  Override the 
 Model a blog post and comments with classes and make it so a blog have many comments.
 
 Add the ability for me to add and remove comments from a blog.
+
+# OOP Principles
+
+Includes examples of principles such as DRY and Single Responsibility Principle.
